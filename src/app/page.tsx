@@ -4,7 +4,7 @@ export default function Home() {
     <div className="bg-white h-screen flex flex-col text-black">
       <div className="w-screen h-[10%] bg-[#D9D9D9]"></div>
       <div className="flex w-screen h-[90%]  items-center">
-        <div className="flex flex-col w-[45%] h-[100%] justify-center ml-8 px-4 gap-10 -mt-8">
+        <div className="flex flex-col w-[45%] h-[100%] justify-center ml-8 px-4 gap-6 -mt-8">
           <h1 className="text-3xl font-bold font-inter">
             Welcome to our Website
           </h1>
