@@ -10,7 +10,7 @@ export default function Home() {
           </h1>
           <p className="font-normal text-[20px] w-68">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard
+            industry. Lorem Ipsum has been the industry standard
           </p>
           <button className="text-white w-[100px] h-[38px] bg-black mt-4">
             Contact Us
